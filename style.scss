@@ -1,0 +1,17 @@
+$color : orange;
+
+h1 {
+	color: $color;
+}
+ul {
+	display: table;
+	width: 100%;
+	table-layout: fixed;
+}
+li {
+	display: table-cell;
+
+}
+li a {
+	color: $color;
+}
