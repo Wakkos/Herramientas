@@ -1,0 +1,13 @@
+h1 {
+  color: orange; }
+
+ul {
+  display: table;
+  width: 100%;
+  table-layout: fixed; }
+
+li {
+  display: table-cell; }
+
+li a {
+  color: orange; }
